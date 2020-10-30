@@ -9,10 +9,11 @@
   },
   "dependencies": {
     "@react-native-community/masked-view": "^0.1.5",
-    "expo": "~36.0.0",
-    "react": "~16.9.0",
-    "react-dom": "~16.9.0",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-36.0.0.tar.gz",
+    "expo": "~39.0.2",
+    "npm-reinstall": "^3.1.0",
+    "react": "~16.13.1",
+    "react-dom": "~16.13.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-39.0.4.tar.gz",
     "react-native-gesture-handler": "~1.5.0",
     "react-native-reanimated": "~1.4.0",
     "react-native-safe-area-context": "0.6.0",
@@ -22,7 +23,7 @@
   },
   "devDependencies": {
     "babel-preset-expo": "~8.0.0",
-    "@babel/core": "^7.0.0"
+    "@babel/core": "^7.9.0"
   },
   "private": true
 }
